@@ -2,7 +2,7 @@
 
 ##### Reverse Influential Community Search Over Social Networks
 
-![Sample of RICS](image-20231217230555559.png)
+![Sample of RICS](example_RICS.png)
 
 # Requirement
 
