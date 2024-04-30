@@ -1,10 +1,10 @@
 ## Reverse Influential Community Search Over Social Networks
 
-#### 1. Representations
+### 1. Representations
 
 RICS: Reverse Influential Community Search Over Social Networks.
 
-#### 2. Requirement
+### 2. Requirement
 
 ```
 Python 3.11.4
@@ -12,7 +12,7 @@ networkx 3.1
 pymetis 2020.1
 ```
 
-#### 3. Install
+### 3. Install
 
 ```
 pip install networkx
@@ -28,7 +28,7 @@ conda install numpy
 pip install - r requirements.txt
 ```
 
-#### 4. Input Data Format
+### 4. Input Data Format
 
 Our input data is `*.gml` format, which is packed by `nx.write_gml()`.
 
@@ -36,7 +36,7 @@ The input data in `gml` file can be read by `nx.read_gml()` as a `nx.Graph`.
 
 You can process the graph by the function in package `networkx`.
 
-#### 5. Usage
+### 5. Usage
 
 ```
 usage: main.py [-h] [-i INPUT] [-DS DATASET] [-Lq KEYWORDS] [-R RADIUS] [-k SUPPORT] [-N NUMBER] [-q QUERY] [-d DISTANCE]
@@ -81,7 +81,7 @@ python main_G_RICS.py -i Out/pre-compute/Facebook/4039-88234-20-3 -DS facebook -
 python main_G_RICS.py -i Out/pre-compute/Facebook/4039-88234-20-3 -DS facebook -Lq 16,3,13,10,6 -R 2 -k 4 -N 10 -q 399 -d 5
 ```
 
-#### Reference
+### 6. Reference
 
 [pymetis](https://github.com/inducer/pymetis), [networkx](https://networkx.org/).
 
