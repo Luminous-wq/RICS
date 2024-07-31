@@ -1,0 +1,43 @@
+INFORMATION RESULTS
+------------------FILE INFO------------------
+Input File: Out/pre-compute/Facebook/4039-88234-20-3/G_Aux_new.gml
+Index File: Out/pre-compute/Facebook/4039-88234-20-3/index_facebook.json
+Output Info File: Out/pre-compute/Facebook/4039-88234-20-3/information.txt
+
+------------------ANSWER INFO------------------
+Top1 RICS Result: []
+Influence score: 0
+Result center: 
+Total Nodes Number: 4039
+Total Edges Number: 88234
+All Keywords: 20
+Keywords Per Vertex: 3
+Distribution: uniform
+
+------------------QUERY INFO------------------
+Query Center: 494
+Query Keywords: [16, 3, 13, 10, 6]
+Query Support: 4
+Query Radius: 2
+Query Distance Pivots Number: 5
+Query Seed Community Size N: 1000
+
+------------------PRUNING INFO------------------
+Pruning Vertices: 4039
+Pruning Entries: 0
+
+------------------TIME INFO------------------
+Started at: 1713589350.058329 	Finished at: 1713589350.0927722
+Total time: 0.03444314002990723
+Select Greatest Entry in Heap time: 0
+Leaf Node Traverse time: 0
+NonLeaf Node Traverse time: 0
+Traversal Compute Influential Score time: 0
+Compute k_truss time: 0
+
+------------------COUNT INFO------------------
+Leaf Nodes Visit: 0
+Entry Nodes Visit: 0
+Influential count: 0
+Influential count mid: 0
+

@@ -1,0 +1,42 @@
+INFORMATION RESULTS
+------------------FILE INFO------------------
+Input File: Out/pre-compute/DBLP/317080-1049866-20-3/G_Aux_new.gml
+Index File: Out/pre-compute/DBLP/317080-1049866-20-3/index_dblp_new.json
+Output Info File: Out/pre-compute/DBLP/317080-1049866-20-3/information.txt
+
+------------------ANSWER INFO------------------
+Top1 RICS Result: ['240738', '182967', '195943', '162191', '147461', '191955', '323326', '323325', '223159', '285006']
+Influence score: 42.0807767446207
+Total Nodes Number: 317080
+Total Edges Number: 1049866
+All Keywords: 20
+Keywords Per Vertex: 3
+Distribution: uniform
+
+------------------QUERY INFO------------------
+Query Center: 361536
+Query Keywords: [16, 3, 13, 10, 6]
+Query Radius: 2
+Query Distance Pivots Number: 5
+Query Seed Community Size N: 10
+
+------------------PRUNING INFO------------------
+Pruning Vertices: 130411
+Pruning Entries: 0
+Pruning Keyword: 130397
+Pruning Dist: 14
+
+------------------TIME INFO------------------
+Started at: 1714208935.896882 	Finished at: 1714210120.3425488
+Total time: 1184.4456667900085
+Select Greatest Entry in Heap time: 3.0107529163360596
+Leaf Node Traverse time: 275.0629348754883
+NonLeaf Node Traverse time: 0.22723841667175293
+Traversal Compute Influential Score time: 1021.6717548370361
+
+------------------COUNT INFO------------------
+Leaf Nodes Visit: 317080
+Entry Nodes Visit: 69888
+Influential count: 1
+Influential count mid: 110
+

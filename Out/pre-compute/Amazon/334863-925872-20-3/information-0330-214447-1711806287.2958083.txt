@@ -1,0 +1,47 @@
+INFORMATION RESULTS
+------------------FILE INFO------------------
+Input File: Out/pre-compute/Amazon/334863-925872-20-3/G_Aux.gml
+Index File: Out/pre-compute/Amazon/334863-925872-20-3/index_amazon.json
+Output Info File: Out/pre-compute/Amazon/334863-925872-20-3/information.txt
+
+------------------ANSWER INFO------------------
+Top1 RICS Result: []
+Total Nodes Number: 334863
+Total Edges Number: 925872
+All Keywords: 20
+Keywords Per Vertex: 3
+Distribution: uniform
+Influence score: 0
+
+------------------QUERY INFO------------------
+Query Center: 28066
+Query Keywords: [16, 3, 13, 10, 6]
+Query Support: 4
+Query Radius: 2
+Query Distance Pivots Number: 5
+Query Seed Community Size N: 50
+
+------------------PRUNING INFO------------------
+Pruning Vertices: 334863
+Pruning Entries: 0
+
+------------------TIME INFO------------------
+Started at: 1711806287.2928038 	Finished at: 1711806287.2957544
+Total time: 0.0029506683349609375
+Select Greatest Entry in Heap time: 3.790855407714844e-05
+Leaf Node Traverse time: 0
+NonLeaf Node Traverse time: 0.00028395652770996094
+Traversal Compute Influential Score time: 0
+Modify Compute Influential Score time: 0
+Modify Result Set time: 0
+Compute Weight u,v time: 0
+Compute k_truss time: 0
+
+------------------COUNT INFO------------------
+Leaf Nodes Visit: 0
+Entry Nodes Visit: 256
+Influential count: 0
+Influential count traversal: 0
+Influential count mid: 0
+Need modify community count: 0
+
